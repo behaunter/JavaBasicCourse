@@ -1,0 +1,17 @@
+public class Homework {
+    public static void main(String[] args) {
+        System.out.println("Вариант 1 с типом int");
+        int number = 365;
+        System.out.println(number);
+        System.out.println("сотни: "+ number/100);
+        System.out.println("десятки: " + (number%100)/10);
+        System.out.println("единицы: " + number%10);
+        System.out.println();
+        System.out.println("Вариант 2 с типом float");
+        float number1 = 365;
+        System.out.println(number1);
+        System.out.println("сотни: "+ (number1-(number1%100))/100);
+        System.out.println("десятки: " + ((number1%100)-number1%10)/10);
+        System.out.println("единицы: " + number1%10);
+    }
+}

@@ -13,3 +13,13 @@ public class Box {
 
 
 }
+
+//Дальше идет применение конструктора
+
+// public class Homework_constructor {
+//     public static void main(String[] args) {
+
+//         Box box1 = new Box(3,4,5);
+//     }
+
+// }

@@ -39,3 +39,15 @@ public class Pizza_return {
 
 
 }
+
+// Launching of the programm
+// public class Pizza_One {
+//     public static void main(String[] args) {
+
+//         Pizza_return pizza1 = new Pizza_return(24);
+//         Pizza_return pizza2 = new Pizza_return(28);
+//         System.out.println("Разница каллорий = " + (pizza2.cal_quan - pizza1.cal_quan));
+
+
+//     }
+// }
